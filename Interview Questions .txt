@@ -1,0 +1,244 @@
+Jira 
+
+Confluence 
+
+
+Jenkins , Sonar ,Nexus , Cloudbees
+
+Docker ,Ansible Shell Script   
+
+AWS 
+
+
+Log Monitoring Tool: 
+
+Change Record/Incident Management tool- 
+
+Accenture 
+Daeshe bank 
+NIce 
+NEC 
+
+
+
+=============================================================================================
+
+Interview 
+
+1 what is static and dynamic inverntory in Ansible
+2. how to send email within shell script 
+3. what is netstat command  
+4. what is entrypoint in docker 
+5. how to keep service on boot / also mount point in linux 
+6. experience in kubernities 
+7. shared library in Jenkins 
+8. Executers in Jenkins 
+9. how to keep process running in Docker 
+10.Subnet in AWS 
+11.how to expose port in Docker 
+experrence in Linux 
+12. what is mean by configuraton Management (what are the tools used in Configuration Management)
+13.scripting knowlgedge 
+14 .
+==========================================================================================================
+
+write sample docker file to decalre environments and fetch the artifcats 
+also run the packages
+
+write the program to find the string and count in array 
+
+how resource sharing will happen in Docker 
+what is docker compose 
+
+what is docker swarm 
+what is diffrenece beteen docker and kubernaties 
+why AWS is used in Devops 
+
+how data is persited even when container is destroyed 
+
+any knowlgedge on python 
+
+
+
+======================================================
+
+
+==============================================================================================================
+
+Blue conch 
+
+what is branching strategies you use 
+explain your pipepline /how to copy the jar /war files 
+what is docker sworm / 
+Network interfaces in docker 
+write pipepline script 
+Kubernaties experience
+Asible vault (for secure file using thirdparty application or encript file and use as envrironments variable  ) 
+sql queries 
+Lambda functions in AWS /services used in AWS
+how to remvove files in linux based on ho it created (mtime commmand)
+how to check docker logs /how check docker running container/only running container / /how to check images status /
+docker volumes 
+how docker  container communitcate witheach other 
+Ansible tasks /
+path for inventory filesin ansible 
+why you used Jenkins and not bitbucket itself  
+what is nexus in one line /what is use for nexus / why do use nexus2 and nexus3 /
+what challenges you faces in Jenkins
+What is docker compose 
+plugin used to restart the jenkins safetly 
+how to mount and unmount points in Linux 
+what is soft link and hard link in linux perpose of both
+
+========================================================================================
+Globant 
+
+
+Asw experience 
+how to create AMI in diffrent region 
+how will pull packages in EC2 in  private network 
+how to pull packages from S3 in EC2 what are the requiremnets 
+how confiigure security groups /IAM policies
+how to copy same IAM roles to diffrent User in IAM 
+
+==========================================================================================
+
+Jenkins /Sonar 
+how to trigger pipeline using first one 
+how to configure webhook in Jenkins /configuration 
+how to give only view access in Jenkins
+how do you configured your pipeline using diffrent parameters
+what are other things you did on Sonarqube 
+
+what if nexus artifcatory goes down 
+
+Docker 
+
+How to troubleshoot containers in Docker 
+how to check path inside and outside container path (copy from inside to outside)
+how to to execute initial commands and then start  docker commands
+what is difference between Entry point and CMD 
+how would you share docker logs with anothe team (read only)
+
+Ansible 
+what are the modules you know in Ansible 
+what are the adhoc commands
+how to check all hosts in Ansible (which command you use)
+how to declare variables in Ansible and use within playbook
+
+
+
+
+Linux
+how to add user with diffrent path 
+grep commmand 
+how to find all .txt files and find perticuar string in file 
+how to check java processs
+how to connect two servers and how to troubleshoot if not connected (port issue)
+hwo to check memory and swap memmory 
+write script to start and stop server on daily basis 
+
+
+========================================================================================================================================
+vpc peering  
+
+sg and route tables 
+
+can it possible connecting multiple CIDR block 
+
+Kubernetes commands
+
+
+Docker entry point CMD command 
+
+Autoscaling and ELB
+
+Arichecture of kubernetes 
+
+
+
+command to delete docker contaner at one shot 
+
+how to add windows agent to Jenkins 
+
+Eks command regarding storage 
+
+Init pod 
+
+how to create soft link 
+
+what is state file and where to keep it 
+
+coustom modules used 
+
+what are services you created using terraform 
+
+deployment strategies used in K8s 
+
+what is stateful and statelesss applications in Kubernates
+
+what is namespace 
+
+default port no in Premeteus and graphana
+
+can we connect promethesus to other tools 
+
+can we change configuaration s of ec2 instance at run time ?
+
+diffrenece between config map and secrets 
+
+can we create pod directly from command line
+
+what is difference between pod and jobs in kubernetes 
+
+
+what is difference between git pull and git fetch 
+
+what is cherrypick up in git hub 
+ what is git rebase 
+ 
+ varibles in terraform 
+ 
+ what is file structure in terraform
+ 
+
+Ansible modules used 
+
+horizontal scaling in kubernetes 
+docker architecture 
+
+what processs running in kubernetes master 
+
+can container talkto each other in pod
+
+how to monitor pods are running 
+
+live ness and ready ness probes in kubernets 
+
+blue green deployment 
+rolling update 
+
+what is difference between configmap and secrests 
+
+what is kube proxy 
+
+sequence of resources creation in terraform
+
+bootstap scripts /user data 
+
+command to create softlink and hardlink 
+
+what are the types of records in route 53
+
+what is difference 
+
+what is hard and soft node affinity 
+
+
+=============================================================================================================================
+
+
+
+ 
+
+================================================================================
